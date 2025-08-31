@@ -1,5 +1,5 @@
 {
-	"name": "SUPER AMOLED",
+	"name": "Pure Black",
 	"description": "AMOLED black theme",
 	"version": "1",
 	"authors": [
@@ -194,6 +194,9 @@
 		],
 		"BORDER_FAINT": [
 			"#000000"
+		],
+		"BUTTON_OUTLINE_DANGER_BORDER": [
+			"#009AFF"
 		]
 	},
 	"rawColors": {
