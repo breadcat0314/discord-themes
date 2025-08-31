@@ -182,7 +182,19 @@
         ],
 		"BG_BASE_TERTIARY": [
             "#000000"
-        ]
+		],
+        "DIVIDER_SUBTLE": [
+			"#000000"
+		],
+		"BORDER_SUBTLE": [
+		    "#000000"
+		],
+		"BORDER_STRONG": [
+			"#000000"
+		],
+		"BORDER_FAINT": [
+			"#000000"
+		]
 	},
 	"rawColors": {
 		"PRIMARY_200": "#FFFFFF",
