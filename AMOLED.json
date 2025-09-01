@@ -134,7 +134,7 @@
             "#000000"
         ],
 		"BG_MOD_FAINT": [
-            "#000000"
+            "#2A2A2A"
         ],
 		"BG_MOD_STRONG": [
             "#090909"
@@ -197,6 +197,9 @@
 		],
 		"BUTTON_OUTLINE_DANGER_BORDER": [
 			"#009AFF"
+		],
+		"CARD_SECONDARY_BG": [
+			"#000000"
 		]
 	},
 	"rawColors": {
