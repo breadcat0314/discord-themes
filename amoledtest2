@@ -20,7 +20,7 @@
 "#000000"
   ],
   "ACTIVITY_CARD_ICON_OVERLAY": [ 
-"#000000"
+"#FFFFFF"
   ],
   "ALERT_BG": [ 
 "#000000"
@@ -326,7 +326,7 @@
 "#000000"
   ],
   "CHANNEL_ICON": [ 
-"#000000"
+"#FFFFFF"
   ],
   "CHANNELS_DEFAULT": [ 
 "#FFFFFF"
@@ -444,16 +444,16 @@
 "#FFFFFF"
   ],
   "ICON_MUTED": [ 
-"#000000"
+"#FFFFFF"
   ], 
   "ICON_PRIMARY": [ 
-"#000000"
+"#FFFFFF"
   ],
   "ICON_SECONDARY": [ 
-"#000000"
+"#FFFFFF"
   ],
   "ICON_TRANSPARENT": [ 
-"#000000"
+"#FFFFFF"
   ],
   "INFO_BOX_BACKGROUND": [ 
 "#000000"
@@ -620,7 +620,7 @@
 "#000000"
   ],
   "REDESIGN_ACTIVITY_CARD_BADGE_ICON": [ 
-"#000000"
+"#FFFFFF"
   ],
   "REDESIGN_BUTTON_ACTIVE_BACKGROUND": [ 
 "#000000"
