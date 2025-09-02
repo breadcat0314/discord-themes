@@ -83,7 +83,7 @@
 "#000000"
   ],
   "BACKGROUND_MESSAGE_HOVER": [ 
-"#000000"
+"#FFFFFF"
   ],
   "BACKGROUND_MOBILE_PRIMARY": [ 
 "#000000"
@@ -98,7 +98,7 @@
 "#000000"
   ],
   "BACKGROUND_MODIFIER_HOVER": [ 
-"#000000"
+"#FFFFFF"
   ],
   "BACKGROUND_MODIFIER_SELECTED": [ 
 "#000000"
@@ -206,7 +206,7 @@
 "#000000"
   ],
   "BUTTON_OUTLINE_BRAND_BACKGROUND": [ 
-"#000000"
+"#FFFFFF"
   ],
   "BUTTON_OUTLINE_BRAND_BACKGROUND_ACTIVE": [ 
 "#000000"
@@ -329,7 +329,7 @@
 "#000000"
   ],
   "CHANNELS_DEFAULT": [ 
-"#000000"
+"#FFFFFF"
   ],
   "CHANNELTEXTAREA_BACKGROUND": [ 
 "#000000"
@@ -438,10 +438,10 @@
 "#000000"
   ],
   "HEADER_PRIMARY": [ 
-"#000000"
+"#FFFFFF"
   ],
   "HEADER_SECONDARY": [ 
-"#000000"
+"#FFFFFF"
   ],
   "ICON_MUTED": [ 
 "#000000"
@@ -527,13 +527,13 @@
 "#000000"
   ],
   "INTERACTIVE_HOVER": [ 
-"#000000"
+"#FFFFFF"
   ],
   "INTERACTIVE_MUTED": [ 
 "#000000"
   ],
   "INTERACTIVE_NORMAL": [ 
-"#000000"
+"#FFFFFF"
   ], 
   "LEADERBOARD_LEAGUE_BRAND_TEXT": [ 
 "#FFFFFF"
@@ -920,7 +920,19 @@
   ],
   "WHITE": [ 
 "#000000"
-  ]
+  ],
+  "SCROLLBAR_THIN_THUMB": [
+"#FFFFFF"
+   ],
+  "SCROLLBAR_THIN_TRACK": [
+"#000000"
+   ],
+  "SCROLLBAR_AUTO_THUMB": [
+"#FFFFFF"
+   ],
+  "SCROLLBAR_AUTO_TRACK": [
+"#FFFFFF"
+   ],
   },
   "rawColors": {
   },
