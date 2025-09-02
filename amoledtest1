@@ -983,7 +983,9 @@
         "BLUE_600": "#FFFFFF",
         "BLUE_630": "#FFFFFF",
         "BLUE_660": "#FFFFFF",
-        "BLUE_700": "#FFFFFF"
+        "BLUE_700": "#FFFFFF",
+        "RED_400": "009AFF",
+        "RED_430": "009AFF"
   },
   "spec": 2
 }
