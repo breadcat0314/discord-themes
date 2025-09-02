@@ -940,6 +940,7 @@
 	"rawColors": {
 		"BLACK_500": "#00000050",
         "BRAND_260": "#FFFFFF",
+        "BRAND_560": "#000000",
 		"ORANGE_260": "#FFFFFF",
         "ORANGE_300": "#FFFFFF",
         "ORANGE_330": "#FFFFFF",
