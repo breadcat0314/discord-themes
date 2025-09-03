@@ -19,6 +19,9 @@
         "BACKGROUND_ACCENT": [
             "#08080A"
         ],
+        "BUTTON_OUTLINE_DANGER_BORDER": [
+            "#009AFF"
+        ],
         "REDESIGN_ACTIVITY_CARD_BADGE_ICON": [
             "#FFFFFF"
         ],
@@ -333,9 +336,6 @@
         ],
         "SCROLLBAR_AUTO_TRACK": [
             "#FFFFFF"
-        ],
-        "BUTTON_OUTLINE_DANGER_BORDER": [
-            "#009AFF"
         ]
     },
     "rawColors": {
