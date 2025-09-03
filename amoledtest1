@@ -1,7 +1,7 @@
 {
-	"name": "Pure Black 1.2",
+	"name": "Pure Black 1.3",
 	"description": "AMOLED black theme",
-	"version": "1.2",
+	"version": "1.1",
 	"authors": [
 		{
 			"name": "breadcat0314",
@@ -83,7 +83,7 @@
 "#000000"
   ],
   "BACKGROUND_MESSAGE_HOVER": [ 
-"#FFFFFF"
+"#000000"
   ],
   "BACKGROUND_MOBILE_PRIMARY": [ 
 "#000000"
@@ -98,7 +98,7 @@
 "#000000"
   ],
   "BACKGROUND_MODIFIER_HOVER": [ 
-"#FFFFFF"
+"#000000"
   ],
   "BACKGROUND_MODIFIER_SELECTED": [ 
 "#000000"
@@ -437,6 +437,7 @@
 "#000000"
   ],
   "GUILD_NOTIFICATIONS_BOTTOM_SHEET_PILL_BACKGROUND": [
+"#000000"
   ],
   "HEADER_MUTED": [ 
 "#000000"
@@ -448,16 +449,16 @@
 "#FFFFFF"
   ],
   "ICON_MUTED": [ 
-"#FFFFFF"
+"#FF69B4"
   ], 
   "ICON_PRIMARY": [ 
-"#FFFFFF"
+"#FF69B4"
   ],
   "ICON_SECONDARY": [ 
-"#FFFFFF"
+"#FF69B4"
   ],
   "ICON_TRANSPARENT": [ 
-"#FFFFFF"
+"#FF69B4"
   ],
   "INFO_BOX_BACKGROUND": [ 
 "#000000"
