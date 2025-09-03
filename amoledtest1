@@ -1,7 +1,7 @@
 {
 	"name": "Pure Black 1.1",
 	"description": "AMOLED black theme",
-	"version": "1.1",
+	"version": "1.2",
 	"authors": [
 		{
 			"name": "breadcat0314",
@@ -447,16 +447,16 @@
 "#FFFFFF"
   ],
   "ICON_MUTED": [ 
-"#FFFFFF"
+"#FF69B4"
   ], 
   "ICON_PRIMARY": [ 
-"#FFFFFF"
+"#FF69B4"
   ],
   "ICON_SECONDARY": [ 
-"#FFFFFF"
+"#FF69B4"
   ],
   "ICON_TRANSPARENT": [ 
-"#FFFFFF"
+"#FF69B4"
   ],
   "INFO_BOX_BACKGROUND": [ 
 "#000000"
