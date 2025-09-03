@@ -1,5 +1,5 @@
 {
-    "name": "Pure Black 1.4B",
+    "name": "Pure Black 1.4C",
     "description": "AMOLED black theme",
     "version": "1.1",
     "authors": [
@@ -17,7 +17,7 @@
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#000000"
+            "#141414"
         ],
         "DIVIDER_STRONG": [
             "#000000"
