@@ -1,5 +1,5 @@
 {
-    "name": "Pure Black 1.4A",
+    "name": "Pure Black 1.4B",
     "description": "AMOLED black theme",
     "version": "1.1",
     "authors": [
@@ -221,7 +221,7 @@
         "PRIMARY_560": "#000000",
         "PRIMARY_600": "#000000",
         "PRIMARY_630": "#000000",
-        "PLUM_15": "#000000",
+        "PLUM_15": "#141414",
         "PLUM_17": "#000000",
         "PLUM_18": "#000000",
         "PLUM_19": "#000000",
