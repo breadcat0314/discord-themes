@@ -1,5 +1,5 @@
 {
-    "name": "Pure Black 1.3F",
+    "name": "Pure Black 1.3G",
     "description": "AMOLED black theme",
     "version": "1.1",
     "authors": [
@@ -170,14 +170,14 @@
             "#000000"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#222021"
+            "#141414"
         ]
     },
     "rawColors": {
         "BLACK_500": "#00000050",
         "BRAND_260": "#FFFFFF",
         "BRAND_560": "#000000",
-        "BRAND_500": "#222021",
+        "BRAND_500": "#141414",
         "ORANGE_260": "#FFFFFF",
         "ORANGE_300": "#FFFFFF",
         "ORANGE_330": "#FFFFFF",
