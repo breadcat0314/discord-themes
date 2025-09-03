@@ -1,5 +1,5 @@
 {
-    "name": "Pure Black 1.3B",
+    "name": "Pure Black 1.3C",
     "description": "AMOLED black theme",
     "version": "1.1",
     "authors": [
@@ -168,6 +168,9 @@
         ],
         "BACKGROUND_SECONDARY": [
             "#000000"
+        ],
+        "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
+            "#FFFFFF"
         ]
     },
     "rawColors": {
