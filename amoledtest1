@@ -1,5 +1,5 @@
 {
-    "name": "Pure Black 1.7TEST",
+    "name": "Pure Black 1.8",
     "description": "AMOLED black theme",
     "version": "1.1",
     "authors": [
@@ -17,10 +17,7 @@
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#08080A"
-        ],
-        "BUTTON_OUTLINE_DANGER_BORDER": [
-            "#009AFF"
+            "#000000"
         ],
         "SPINE_DEFAULT": [
             "#000000"
@@ -137,7 +134,7 @@
             "#000000"
         ],
         "WHITE": [
-            "#000000"
+            "#FFFFFF"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#FFFFFF"
@@ -186,7 +183,6 @@
         "YELLOW_630": "#FFFFFF",
         "YELLOW_660": "#FFFFFF",
         "YELLOW_700": "#FFFFFF",
-        "RED_400": "#009AFF",
         "RED_430": "#009AFF",
         "PLUM_14": "#222222",
         "PRIMARY_800": "#222222",
