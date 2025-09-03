@@ -1,5 +1,5 @@
 {
-    "name": "Pure Black 1.4D",
+    "name": "Pure Black 1.4E",
     "description": "AMOLED black theme",
     "version": "1.1",
     "authors": [
@@ -104,7 +104,7 @@
             "#FFFFFF"
         ],
         "TEXT_MUTED_ON_DEFAULT": [
-            "#222222"
+            "#FFFFFF"
         ],
         "TEXT_NORMAL": [
             "#FFFFFF"
