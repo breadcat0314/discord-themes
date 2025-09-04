@@ -1,5 +1,5 @@
 {
-    "name": "YouBlue 1.8A",
+    "name": "YouBlue 1.8B",
     "description": "blue based on material you :3",
     "version": "1.0",
     "authors": [
@@ -136,7 +136,7 @@
             "#FFFFFF"
         ],
         "TEXT_MUTED": [
-            "#D3D3D3"
+            "#7f7f7f"
         ],
         "TEXT_PRIMARY": [
             "#FFFFFF"
