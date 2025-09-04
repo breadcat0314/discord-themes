@@ -1,5 +1,5 @@
 {
-    "name": "Pure Black 1.5",
+    "name": "Pure Black 1.5A",
     "description": "AMOLED black theme",
     "version": "1.1",
     "authors": [
@@ -32,10 +32,10 @@
             "#000000"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "#222222"
+            "#141414"
         ],
         "SPOILER_REVEALED_BACKGROUND": [
-            "#222222"
+            "#141414"
         ],
         "STAGE_CARD_PILL_BG": [
             "#000000"
@@ -74,7 +74,7 @@
             "#000000"
         ],
         "STATUS_WARNING": [
-            "#000000"
+            "#FFFFFF"
         ],
         "STATUS_WARNING_BACKGROUND": [
             "#000000"
