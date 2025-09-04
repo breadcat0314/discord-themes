@@ -1,5 +1,5 @@
 {
-    "name": "YouBlue 1.7",
+    "name": "YouBlue 1.8",
     "description": "blue based on material you :3",
     "version": "1.0",
     "authors": [
@@ -19,7 +19,7 @@
             "#000000"
         ],		
         "BACKGROUND_ACCENT": [
-            "#141414"
+            "#000000"
         ],
         "BACKGROUND_MENTIONED": [
             "#FFFFFF17"
@@ -31,7 +31,7 @@
             "#1B1E27"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#141414"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#212631"
@@ -115,7 +115,7 @@
             "#FFFFFF"
         ],
         "INTERACTIVE_MUTED": [
-            "#141414"
+            "#000000"
         ],
         "INTERACTIVE_NORMAL": [
             "#FFFFFF"
@@ -136,7 +136,7 @@
             "#FFFFFF"
         ],
         "TEXT_MUTED": [
-            "#6C7C9D"
+            "#000000"
         ],
         "TEXT_PRIMARY": [
             "#FFFFFF"
@@ -211,7 +211,7 @@
             "#FFFFFF"
         ],
         "REDESIGN_INPUT_CONTROL_SELECTED": [
-            "#141414"
+            "#000000"
         ],
         "BG_BACKDROP": [
             "#0A0B0Eaa"
@@ -250,10 +250,10 @@
             "#FFFFFF44"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "#141414"
+            "#000000"
         ],
         "SPOILER_REVEALED_BACKGROUND": [
-            "#141414"
+            "#000000"
         ],
         "INPUT_FOCUSED_BORDER": [
             "#212631"
@@ -314,7 +314,7 @@
         "PLUM_11": "#434D62",
         "PLUM_13": "#FFFFFF",
         "PLUM_14": "#222222",
-        "PLUM_15": "#141414",
+        "PLUM_15": "#000000",
         "PLUM_16": "#000000",
         "PLUM_17": "#000000",
         "PLUM_18": "#000000",
@@ -334,7 +334,7 @@
         "BRAND_400": "#00ff00",
         "BRAND_430": "#00ff00",
         "BRAND_460": "#00ff00",
-        "BRAND_500": "#141414",
+        "BRAND_500": "#000000",
         "BRAND_530": "#ff0",
         "BRAND_560": "#000000",
         "BRAND_600": "#8B9EC9",
