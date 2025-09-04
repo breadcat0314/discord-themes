@@ -1,5 +1,5 @@
 {
-    "name": "YouBlue 1.1",
+    "name": "YouBlue 1.2",
     "description": "blue based on material you :3",
     "version": "1.0",
     "authors": [
@@ -130,16 +130,16 @@
             "#FFFFFF"
         ],
         "TEXT_LINK": [
-            "#FFFFFF"
+            "#009AFF"
         ],
         "TEXT_NORMAL": [
-            "#DEE8FD"
+            "#FFFFFF"
         ],
         "TEXT_MUTED": [
             "#6C7C9D"
         ],
         "TEXT_PRIMARY": [
-            "#DEE8FD"
+            "#FFFFFF"
         ],
         "THREAD_CHANNEL_SPINE": [
             "#FFFFFF"
@@ -290,11 +290,11 @@
         ]
     },
     "rawColors": {
-        "PRIMARY_100": "#DEE8FD",
-        "PRIMARY_200": "#DEE8FD",
-        "PRIMARY_300": "#DEE8FD",
-        "PRIMARY_330": "#DEE8FDaa",
-        "PRIMARY_360": "#DEE8FD",
+        "PRIMARY_100": "#FFFFFF",
+        "PRIMARY_200": "#FFFFFF",
+        "PRIMARY_300": "#FFFFFF",
+        "PRIMARY_330": "#FFFFFFaa",
+        "PRIMARY_360": "#FFFFFF",
         "PRIMARY_400": "#FFFFFF",
         "PRIMARY_460": "#FFFFFF",
         "PRIMARY_500": "#8B9EC9",
@@ -322,7 +322,7 @@
         "PLUM_22": "#000000",
         "PLUM_23": "#000000",
         "PLUM_24": "#000000",
-        "PLUM_3": "#DEE8FD",
+        "PLUM_3": "#FFFFFF",
         "PLUM_4": "#FFFFFF",
         "PLUM_6": "#FFFFFF",
         "BRAND_260": "#FFFFFF",
@@ -429,7 +429,7 @@
         "BLUE_660": "#ff0",
         "BLUE_700": "#ff0",
         "NEUTRAL_34": "#ff0",
-        "WHITE_630": "#DEE8FD",
+        "WHITE_630": "#FFFFFF",
         "ROLE_DEFAULT": "#1B1E27",
         "BLACK_460": "#1B1E27",
 	    "BLACK_500": "#00000050"
