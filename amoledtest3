@@ -1,5 +1,5 @@
 {
-    "name": "YouBlue 1.3",
+    "name": "YouBlue 1.4",
     "description": "blue based on material you :3",
     "version": "1.0",
     "authors": [
@@ -299,10 +299,11 @@
         "PRIMARY_460": "#FFFFFF",
         "PRIMARY_500": "#8B9EC9",
         "PRIMARY_530": "#1B1E27",
-        "PRIMARY_600": "#1B1E27",
-        "PRIMARY_630": "#1B1E27",
+		"PRIMARY_560": "#000000",
+        "PRIMARY_600": "#000000",
+        "PRIMARY_630": "#000000",
         "PRIMARY_645": "#ff0",
-        "PRIMARY_660": "#181A21",
+        "PRIMARY_660": "#000000",
         "PRIMARY_700": "#000000",
         "PRIMARY_730": "#212631",
         "PRIMARY_800": "#1B1E27",
