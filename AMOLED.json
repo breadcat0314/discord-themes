@@ -1,5 +1,5 @@
 {
-    "name": "Pure Black 1.5i Test",
+    "name": "Pure Black 1.6",
     "description": "AMOLED black theme",
     "version": "1.1",
     "authors": [
@@ -14,7 +14,7 @@
     },
     "semanticColors": {
         "BACKGROUND_TERTIARY": [
-            "#000000"
+            "#141414"
         ],
         "BACKGROUND_ACCENT": [
             "#141414"
@@ -30,9 +30,6 @@
         ],
         "SPOILER_REVEALED_BACKGROUND": [
             "#141414"
-        ],
-        "STAGE_CARD_PILL_BG": [
-            "#000000"
         ],
         "STATUS_DANGER_TEXT": [
             "#FFFFFF"
@@ -102,9 +99,6 @@
         ],
         "TEXT_WARNING": [
             "#FFFFFF"
-        ],
-        "THEME_LOCKED_BLUR_FALLBACK": [
-            "#000000"
         ],
         "THREAD_CHANNEL_SPINE": [
             "#FFFFFF"
