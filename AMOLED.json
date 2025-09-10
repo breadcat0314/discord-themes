@@ -1,5 +1,5 @@
 {
-    "name": "Pure Black 1.6.1",
+    "name": "Pure Black 1.6.2",
     "description": "AMOLED black theme",
     "version": "1.1",
     "authors": [
@@ -51,12 +51,6 @@
         ],
         "STATUS_SPEAKING": [
             "#000000"
-        ],
-        "STATUS_WARNING": [
-            "#FFFFFF"
-        ],
-        "STATUS_WARNING_BACKGROUND": [
-            "#FFFFFF"
         ],
         "STATUS_WARNING_TEXT": [
             "#FFFFFF"
@@ -143,16 +137,22 @@
             "#141414"
         ],
         "STATUS_DANGER": [
-            "#FFFFFF"
+            "#880808"
         ],
         "STATUS_DANGER_BACKGROUND": [
-            "#FFFFFF"
+            "#880808"
     	],
+        "STATUS_WARNING": [
+            "#FFF200"
+        ],
+        "STATUS_WARNING_BACKGROUND": [
+            "#FFF200"
+        ],
         "STATUS_POSITIVE": [
-            "#FFFFFF"
+            "#32CD32"
         ],
         "STATUS_POSITIVE_BACKGROUND": [
-            "#FFFFFF"
+            "#32CD32"
         ]
     },
     "rawColors": {
