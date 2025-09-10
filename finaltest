@@ -1,5 +1,5 @@
 {
-    "name": "finaltest v5",
+    "name": "finaltest v6",
     "description": "AMOLED black theme",
     "version": "1.1",
     "authors": [
@@ -200,13 +200,13 @@
         "PLUM_1": "#FFFFFF",
         "PLUM_14": "#222222",
         "PLUM_15": "#141414",
-        "PLUM_17": "#141414",
-        "PLUM_18": "#141414",
-        "PLUM_19": "#141414",
-        "PLUM_20": "#141414",
-        "PLUM_22": "#141414",
-        "PLUM_23": "#141414",
-        "PLUM_24": "#141414"
+        "PLUM_17": "#FFA500",
+        "PLUM_18": "#FFA500",
+        "PLUM_19": "#FF69B4",
+        "PLUM_20": "#FF69B4",
+        "PLUM_22": "##FFFF00",
+        "PLUM_23": "##FFFF00",
+        "PLUM_24": "##FFFF00"
     },
     "spec": 2
 }
