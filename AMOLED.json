@@ -1,5 +1,5 @@
 {
-    "name": "Pure Black 1.5F",
+    "name": "Pure Black 1.5G Test",
     "description": "AMOLED black theme",
     "version": "1.1",
     "authors": [
@@ -38,12 +38,6 @@
             "#141414"
         ],
         "STAGE_CARD_PILL_BG": [
-            "#000000"
-        ],
-        "STATUS_DANGER": [
-            "#000000"
-        ],
-        "STATUS_DANGER_BACKGROUND": [
             "#000000"
         ],
         "STATUS_DANGER_TEXT": [
