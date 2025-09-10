@@ -1,5 +1,5 @@
 {
-    "name": "finaltest v9",
+    "name": "finaltest v10",
     "description": "AMOLED black theme",
     "version": "1.1",
     "authors": [
@@ -205,7 +205,7 @@
         "PLUM_19": "#000000",
         "PLUM_20": "#000000",
         "PLUM_22": "#000000",
-        "PLUM_23": "#FFFF00",
+        "PLUM_23": "#141414",
         "PLUM_24": "#000000"
     },
     "spec": 2
