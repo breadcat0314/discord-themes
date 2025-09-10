@@ -1,5 +1,5 @@
 {
-    "name": "Pure Black 1.5h Test",
+    "name": "Pure Black 1.5i Test",
     "description": "AMOLED black theme",
     "version": "1.1",
     "authors": [
@@ -24,13 +24,7 @@
         ],
         "DIVIDER_SUBTLE": [
             "#000000"
-        ],
-        "BORDER_SUBTLE": [
-            "#000000"
-        ],        
-        "SPINE_DEFAULT": [
-            "#000000"
-        ],
+        ],     
         "SPOILER_HIDDEN_BACKGROUND": [
             "#141414"
         ],
@@ -65,7 +59,7 @@
             "#FFFFFF"
         ],
         "STATUS_WARNING_BACKGROUND": [
-            "#000000"
+            "#FFFFFF"
         ],
         "STATUS_WARNING_TEXT": [
             "#FFFFFF"
