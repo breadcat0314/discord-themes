@@ -1,5 +1,5 @@
 {
-    "name": "finaltest v4",
+    "name": "finaltest v5",
     "description": "AMOLED black theme",
     "version": "1.1",
     "authors": [
@@ -160,6 +160,11 @@
         "BRAND_360": "#FFFFFF",
         "BRAND_500": "#141414",
         "BRAND_560": "#000000",
+        "PRIMARY_560": "#000000",
+        "PRIMARY_600": "#000000",
+        "PRIMARY_630": "#000000",
+        "PRIMARY_660": "#000000",
+        "PRIMARY_700": "#000000",
         "PRIMARY_800": "#222222",
         "ORANGE_260": "#FFFFFF",
         "ORANGE_300": "#FFFFFF",
