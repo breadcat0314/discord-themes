@@ -1,5 +1,5 @@
 {
-    "name": "finaltest v11",
+    "name": "finaltest v12",
     "description": "AMOLED black theme",
     "version": "1.1",
     "authors": [
@@ -154,7 +154,7 @@
         "STATUS_POSITIVE_BACKGROUND": [
             "#32CD32"
         ],
-        "BACKGROUND_SECONDARY_ALT": [
+        "BG_BASE_TERTIARY": [
             "#000000"
         ]
     },
