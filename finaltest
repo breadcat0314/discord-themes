@@ -1,5 +1,5 @@
 {
-    "name": "finaltest v12",
+    "name": "finaltest v13",
     "description": "AMOLED black theme",
     "version": "1.1",
     "authors": [
@@ -154,10 +154,7 @@
         "STATUS_POSITIVE_BACKGROUND": [
             "#32CD32"
         ],
-        "BG_BASE_TERTIARY": [
-            "#000000"
-        ]
-    },
+  },
     "rawColors": {
         "BRAND_260": "#FFFFFF",
         "BRAND_360": "#FFFFFF",
