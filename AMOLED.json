@@ -1,5 +1,5 @@
 {
-    "name": "Pure Black 1.5G Test",
+    "name": "Pure Black 1.5G Test2",
     "description": "AMOLED black theme",
     "version": "1.1",
     "authors": [
@@ -54,12 +54,6 @@
         ],
         "STATUS_ONLINE": [
             "#32CD32"
-        ],
-        "STATUS_POSITIVE": [
-            "#000000"
-        ],
-        "STATUS_POSITIVE_BACKGROUND": [
-            "#000000"
         ],
         "STATUS_POSITIVE_TEXT": [
             "#FFFFFF"
