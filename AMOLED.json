@@ -1,5 +1,5 @@
 {
-    "name": "Pure Black 1.5G Test2",
+    "name": "Pure Black 1.5h Test",
     "description": "AMOLED black theme",
     "version": "1.1",
     "authors": [
@@ -133,15 +133,6 @@
         "WHITE": [
             "#FFFFFF"
         ],
-        "SCROLLBAR_THIN_THUMB": [
-            "#FFFFFF"
-        ],
-        "SCROLLBAR_THIN_TRACK": [
-            "#000000"
-        ],
-        "SCROLLBAR_AUTO_THUMB": [
-            "#FFFFFF"
-        ],
         "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [ 
             "#000000"
         ],
@@ -162,6 +153,18 @@
         ],
         "INTERACTIVE_MUTED": [
             "#141414"
+        ],
+        "STATUS_DANGER": [
+            "#FFFFFF"
+        ],
+        "STATUS_DANGER_BACKGROUND": [
+            "#FFFFFF"
+    	],
+        "STATUS_POSITIVE": [
+            "#FFFFFF"
+        ],
+        "STATUS_POSITIVE_BACKGROUND": [
+            "#FFFFFF"
         ]
     },
     "rawColors": {
