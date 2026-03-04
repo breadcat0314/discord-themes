@@ -207,7 +207,7 @@
     },
     "plus": {
     "version": "0",
-    "iconpack": "deco"
+    "iconpack": "deco",
     "mentionLineColor": "#FFFFFF"
     },
     "spec": 2
