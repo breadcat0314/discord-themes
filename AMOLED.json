@@ -8,10 +8,6 @@
             "id": "354957913187680257"
         }
     ],
-    "plus": {
-        "version": 0,
-        "mentionLineColor": "#FFFFFF"
-    },
     "semanticColors": {
         "BACKGROUND_TERTIARY": [
             "#141414"
@@ -212,6 +208,7 @@
     "plus": {
     "version": "0",
     "iconpack": "rosiecord-plumpy"
+    "mentionLineColor": "#FFFFFF"
     },
     "spec": 2
 }
