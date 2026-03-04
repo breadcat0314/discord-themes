@@ -149,6 +149,9 @@
         ],
         "STATUS_POSITIVE_BACKGROUND": [
             "#32CD32"
+        ],
+        "MENTION_BACKGROUND": [
+            "#141414"
         ]
     },
     "rawColors": {
