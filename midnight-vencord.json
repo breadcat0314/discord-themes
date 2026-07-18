@@ -231,7 +231,14 @@
       "toast_copy_link": "#ffccf4",
       "toast_copy_message": "#feffff",
       "toast_image_saved": "#feffff"
-    }
+    },
+     "background": {
+    "url": "https://raw.githubusercontent.com/breadcat0314/discord-themes/refs/heads/main/IMG_1194.png",
+    "blur": 0.5,
+    "alpha": 0.25,
+    "size": "cover",
+    "position": "center"
+    
   },
   "spec": 2
 }
