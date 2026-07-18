@@ -9,8 +9,6 @@
     }
   ],
   "semanticColors": {
-    "ANDROID_NAVIGATION_BAR_BACKGROUND": ["#ffffff"],
-    "ANDROID_RIPPLE": ["#5e505c"],
     "CHAT_BACKGROUND": ["#282828"],
     "BACKGROUND_ACCENT": ["#d3869b"],
     "BACKGROUND_FLOATING": ["#3c3836"],
@@ -77,7 +75,7 @@
     "TEXT_PRIMARY": ["#F5dcb0"],
     "TEXT_SECONDARY": ["#b3a58c"],
     "BG_MOD_FAINT": ["hsla(20, 3%, 40%, 0.1)"],
-    "KEYBOARD": ["#3c3836"],
+
     "AUTOCOMPLETE_BG": ["#282828"],
     "BACKGROUND_MODIFIER_ACCEPT": ["#a8b66533"],
     "BACKGROUND_MODIFIER_ACCEPT_HOVER": ["#a8b6654d"],
