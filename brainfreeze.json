@@ -633,7 +633,8 @@
             "BellIcon": "#70afff",
             "NotificationCenter": "#70afff",
             "ic_notif": "#70afff",
-            "StarIcon": "#70afff"
+            "StarIcon": "#70afff",
+            "LanguageIcon": "#70afff"
         }
     },
     "spec": 2
