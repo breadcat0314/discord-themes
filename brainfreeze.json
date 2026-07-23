@@ -1,5 +1,5 @@
 {
-    "name": "Brain Freeze",
+    "name": "Brain Freeze Tweaked",
     "description": "Abyssal dark meets electric periwinkle blue. Cold and electric.",
     "version": "1.6",
     "authors": [
@@ -621,7 +621,9 @@
             "ic_nitro_rep_24px": "#70afff",
             "ShopIcon": "#70afff",
             "PencilIcon": "#70afff",
-    
+            "SettingsIcon": "#70afff",
+            "favorite": "#70afff",
+            "NotificationCenter": "#70afff",
             "MagnifyingGlassIcon": "#70afff",
             "search": "#70afff",
             "MoreHorizontalIcon": "#70afff",
