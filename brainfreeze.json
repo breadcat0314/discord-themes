@@ -627,7 +627,13 @@
             "UserCheckIcon": "#70afff",
             "NitroWheelIcon": "#70afff",
             "down_arrow": "#70afff",
-            "QuestsIcon": "#70afff"
+            "QuestsIcon": "#70afff",
+            "SettingsIcon": "#70afff",
+            "bell": "#70afff",
+            "BellIcon": "#70afff",
+            "NotificationCenter": "#70afff",
+            "ic_notif": "#70afff",
+            "StarIcon": "#70afff"
         }
     },
     "spec": 2
