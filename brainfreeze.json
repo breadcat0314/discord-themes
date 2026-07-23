@@ -622,7 +622,7 @@
             "ShopIcon": "#70afff",
             "PencilIcon": "#70afff",
             "SettingsIcon": "#70afff",
-            "BellIcon": "#70afff",
+            "bell": "#70afff",
             "StarIcon": "#70afff",
             "MagnifyingGlassIcon": "#70afff",
             "search": "#70afff",
