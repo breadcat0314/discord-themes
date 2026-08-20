@@ -57,10 +57,10 @@
             "#0e1828",
             "#dde5e8"
         ],
-        "BACKGROUND_PRIMARY": [
-            "#0a1420",
-            "#e8eef0"
-        ],
+        //"BACKGROUND_PRIMARY": [
+        //    "#0a1420",
+        //    "#e8eef0"
+        //],
         "BACKGROUND_SECONDARY": [
             "#08121c",
             "#dde5e8"
