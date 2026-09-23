@@ -490,6 +490,10 @@
         "CHAT_MENTIONS_BACKGROUND": [
             "#70afff18",
             "#70afff12"
+        ],
+        "KEYBOARD": [
+            "#08101e",
+            "#e8edf5"
         ]
     },
     "rawColors": {
