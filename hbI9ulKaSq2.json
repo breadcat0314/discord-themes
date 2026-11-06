@@ -63,9 +63,6 @@
     "BACKGROUND_NESTED_FLOATING": [
       "#000000"
     ],
-    "BACKGROUND_PRIMARY": [
-      "#000000"
-    ],
     "BACKGROUND_SCRIM": [
       "#000000B3"
     ],
@@ -910,5 +907,10 @@
     "YELLOW_630": "#FFFFFF",
     "YELLOW_660": "#FFFFFF",
     "YELLOW_700": "#FFFFFF"
+  },
+  "plus": {
+  "version": "0",
+  "iconpack": "solarduotone",
+  "mentionLineColor": "#FFFFFF"
   }
 }
